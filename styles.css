@@ -9,7 +9,7 @@
   height:60px;
   background: rgb(165, 180, 96)2;
 background: radial-gradient(circle, rgba(20,133,172,1) 0%, rgb(165, 180, 96) 100%);
-  color: black;
+  color: rgb(8, 8, 8);
    margin: auto;
   display: flex;
   justify-content:space-around;
